@@ -33,8 +33,12 @@
 
 # Why You Should Consider Building a Personal Website
 (1) It offers a better employment edge.
+
 (2) It showcases our talent.
+
 (3) It enables you to build valuable skills.
+
 (4) We’re able to build an online presence.
+
 (5) when we’re running a website, we’ll find yourself learning some incredible skills like web development. We might even become a recognized expert or coach by sharing your knowledge. 
 
