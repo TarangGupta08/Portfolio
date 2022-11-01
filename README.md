@@ -40,5 +40,5 @@
 
 (4) We’re able to build an online presence.
 
-(5) when we’re running a website, we’ll find yourself learning some incredible skills like web development. We might even become a recognized expert or coach by sharing your knowledge. 
+(5) When we’re running a website, we’ll find yourself learning some incredible skills like web development. We might even become a recognized expert or coach by sharing your knowledge. 
 
